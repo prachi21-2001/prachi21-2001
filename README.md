@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! Prachi sinha this side. 👋
 
-<!--
-**prachi21-2001/prachi21-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on DSA,Node.js
+- 🌱 I’m currently learning C++,Web-development
+- 👯 I’m looking to collaborate on Git-hub
+
+- 💬 you can contact me on [E-mail](prachisin26@gmail.com) 
+- 📫 How to reach me: [linkedin](www.linkedin.com/in/prachisin26) 
+
