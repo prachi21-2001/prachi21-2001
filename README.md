@@ -19,5 +19,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prachi21-2001)
 
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="prachi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prachi21-2001&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="My contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=prachi21-2001&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
