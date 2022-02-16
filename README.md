@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on DSA,Node.js
+- 🔭 I’m currently working on DSA,css,ejs
 - 🌱 I’m currently learning C++,Web-development
 - 👯 I’m looking to collaborate on Git-hub
 
