@@ -11,6 +11,10 @@
 - 💬 you can contact me on [E-mail](prachisin26@gmail.com) 
 - 📫 How to reach me: [linkedin](www.linkedin.com/in/prachisin26) 
 
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
+
 ### My stats
 
 ![prachi GitHub stats](https://github-readme-stats.vercel.app/api?username=prachi21-2001)
